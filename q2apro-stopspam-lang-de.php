@@ -2,14 +2,14 @@
 
 /*
 	Plugin Name: Stop Spam
-	Plugin URI: http://www.q2apro.com/plugins/stop-spam
+	Plugin URI: https://github.com/q2apro/q2apro-stop-spam
 	Plugin Description: An easy to use customizable captcha with a honeypot that keeps 99 % of the spam away
 	Plugin Version: 1.0
 	Plugin Date: 2014-02-20
-	Plugin Author: q2apro.com
-	Plugin Author URI: http://www.q2apro.com
+	Plugin Author:  https://github.com/q2apro
+	Plugin Author URI: https://github.com/q2apro/q2apro-stop-spam
 	Plugin Minimum Question2Answer Version: 1.5
-	Plugin Update Check URI: http://www.q2apro.com/pluginupdate?id=7
+	Plugin Update Check URI: https://github.com/q2apro/q2apro-stop-spam
 	
 	Licence: Copyright © q2apro.com - All rights reserved
 
