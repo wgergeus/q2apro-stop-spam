@@ -1,21 +1,6 @@
 <?php
 
 /*
-	Plugin Name: Stop Spam
-	Plugin URI: http://www.q2apro.com/plugins/stop-spam
-	Plugin Description: An easy to use customizable captcha with a honeypot that keeps 99 % of the spam away
-	Plugin Version: 1.0
-	Plugin Date: 2014-02-20
-	Plugin Author: q2apro.com
-	Plugin Author URI: http://www.q2apro.com
-	Plugin Minimum Question2Answer Version: 1.5
-	Plugin Update Check URI: http://www.q2apro.com/pluginupdate?id=7
-	
-	Licence: Copyright © q2apro.com - All rights reserved
-
-*/
-
-/*
 	This layer prevents user with same IP from voting and selecting.
 	
 	with q2a v1.6.3 there is only the option "Allow users to answer their own question:" 
